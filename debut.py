@@ -7,4 +7,8 @@ message.pack()
 
 app.mainloop()
 
+a= [0,1,2]
+for a in range:
+	print (a)
+
 

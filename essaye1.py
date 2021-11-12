@@ -6,4 +6,4 @@ fenetre = Tk()
 label = Label(fenetre, text="Hello World")
 label.pack()
 
-fenetre.mainloop()
+fenetre.mainloop()  modification elvice2

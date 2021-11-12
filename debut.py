@@ -4,4 +4,4 @@ app = tk.Tk()
 message = tk.Label(app, text = "MA PREMIERE APPLICATION EN PYTHON")
 message.pack()
 
-app.mainloop()
+app.mainloop()   modification elvice

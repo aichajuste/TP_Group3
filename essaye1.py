@@ -1,4 +1,4 @@
- # modification
+ # il faut revoire  ce programme 
 from tkinter import * 
 
 fenetre = Tk()

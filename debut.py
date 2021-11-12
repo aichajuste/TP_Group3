@@ -1,14 +1,9 @@
 # Modification sur la brache
-import tkinter as tk
-app = tk.Tk()
+list= ["café","thé","lait","lypton","café_au_lait"]
+for choix in list:
+print("voici mon choix", choix)
 
-message = tk.Label(app, text = "MA PREMIERE APPLICATION EN PYTHON")
-message.pack()
+print("merci!")
 
-app.mainloop()
-
-a= [0,1,2]
-for a in range:
-	print (a)
 
 

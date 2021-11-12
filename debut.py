@@ -4,6 +4,5 @@ for choix in list:
 print("voici mon choix", choix)
 
 print("merci!")
-
-
+# bonjour la famille c'est moi cendrillon
 
